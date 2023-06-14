@@ -2,6 +2,8 @@
 
 This Python script automates the process of generating and inserting a shellcode into a C# file (ASPX-Helper.cs), then compiling it into an executable (ASPX-Helper.exe), which is subsequently run to produce an encoded version of the shellcode. This encoded shellcode is then inserted into an ASP.NET web shell template (webshell_template.aspx). Finally, a Metasploit resource file is created for quickly setting up a multi/handler to receive the reverse HTTPS Meterpreter shell.
 
+This is a script I have made and used for OSEP Challenges and to save time in the Exam.
+
 ## Functionality
 
 The script performs the following steps:
