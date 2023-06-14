@@ -29,7 +29,7 @@ This script relies on the following software:
 Run the script using Python, providing the LHOST and LPORT values as command line arguments:
 
 ```bash
-python3 shellcode_generator.py --LHOST your_ip --LPORT your_port
+python3 aspx_shellcode_generator.py --LHOST your_ip --LPORT your_port
 ```
 
 Replace `your_ip` and `your_port` with your local IP and desired port number respectively.
