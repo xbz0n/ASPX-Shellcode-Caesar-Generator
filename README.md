@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-     ![AspXVenom in action](screenshot.png)
+  <img src="screenshot.png" alt="AspXVenom Demo" width="700">
 </p>
 
 <p align="center">
