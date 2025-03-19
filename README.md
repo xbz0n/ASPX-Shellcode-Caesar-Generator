@@ -8,6 +8,10 @@
 </p>
 
 <p align="center">
+     ![AspXVenom in action](screenshot.png)
+</p>
+
+<p align="center">
   <b>AspXVenom</b> is an advanced ASPX shellcode generator with encryption and obfuscation capabilities for penetration testing.
 </p>
 
