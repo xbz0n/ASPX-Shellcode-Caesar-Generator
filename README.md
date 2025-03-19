@@ -147,7 +147,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Author
 
-- **xbz0n** - [Blog](https://xbz0n.sh) | [GitHub](https://github.com/xbz0n)
+- **Ivan Spiridonov (xbz0n)** - [Blog](https://xbz0n.sh) | [GitHub](https://github.com/xbz0n)
 
 ## License
 
