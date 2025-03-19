@@ -36,6 +36,9 @@ python3 aspx_shellcode_generator.py --LHOST your_ip --LPORT your_port
 
 Replace `your_ip` and `your_port` with your local IP and desired port number respectively.
 
+![image](https://github.com/user-attachments/assets/7c144a11-e8f5-4584-80a3-fdfcda5f2eeb)
+
+
 After the script completes, the generated shellcode, modified helper program, encoded shellcode, final webshell, and Metasploit resource file will be located in the `output` directory.
 
 ## Warning
