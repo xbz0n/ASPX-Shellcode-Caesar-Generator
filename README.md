@@ -7,9 +7,6 @@
   <img src="https://img.shields.io/badge/License-MIT-lightgrey" alt="License">
 </p>
 
-<p align="center">
-  <img src="screenshot.png" alt="AspXVenom Demo" width="700">
-</p>
 
 <p align="center">
   <b>AspXVenom</b> is an advanced ASPX shellcode generator with encryption and obfuscation capabilities for penetration testing.
@@ -24,6 +21,10 @@
 ## Overview
 
 AspXVenom automates the process of generating encoded shellcode and embedding it into ASPX webshells, providing a smooth workflow for penetration testers during security assessments. The tool is specifically designed for testing ASPX-enabled web servers and .NET environments.
+
+<p align="center">
+  <img src="screenshot.png" alt="AspXVenom Demo" width="700">
+</p>
 
 ## New in Version 2.0
 
